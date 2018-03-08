@@ -2,6 +2,10 @@
   position: relative;
 }
 
+.embed--4by1 {
+  
+}
+
 .embed__item {
   height: 100%;
   position: absolute;
